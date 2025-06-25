@@ -19,63 +19,63 @@
     "sentence_end": "to everyone.",
     "translation": "добрa, мила",
     "synonyms": ["nice", "friendly", "helpful"]
-  }
+  },
   {
     "word": "about",
     "sentence_start": "He wants to earn",
     "sentence_end": "$10,000.",
     "translation": "майже, приблизно",
     "synonyms": ["approximately, nearly"]
-  }
+  },
   {
     "word": "about",
     "sentence_start": "What are you thinking",
     "sentence_end": "?",
     "translation": "про, щодо",
     "synonyms": ["concerning, regarding"]
-  }
+  },
   {
     "word": "above",
     "sentence_start": "The birds were flying high",
     "sentence_end": ".",
     "translation": "зверху, вгорі",
     "synonyms": ["overhead, aloft"]
-  }
+  },
   {
     "word": "above",
     "sentence_start": "The painting hangs",
     "sentence_end": "the fireplace.",
     "translation": "над",
     "synonyms": ["over, beyond"]
-  }
+  },
   {
     "word": "across",
     "sentence_start": "They walked",
     "sentence_end": "the field.",
     "translation": "через, наскрізь",
     "synonyms": ["over, through"]
-  }
+  },
   {
     "word": "across",
     "sentence_start": "The bridge stretches",
     "sentence_end": "the river.",
     "translation": "через, по той бік",
     "synonyms": ["over, beyond"]
-  }
+  },
   {
     "word": "action",
     "sentence_start": "His words led to immediate",
     "sentence_end": ".",
     "translation": "дія, вчинок",
     "synonyms": ["deed, act"]
-  }
+  },
   {
     "word": "activity",
     "sentence_start": "Reading is a relaxing",
     "sentence_end": ".",
     "translation": "діяльність, заняття",
     "synonyms": ["pursuit, occupation"]
-  }
+  },
   {
     "word": "actor",
     "sentence_start": "My favorite",
