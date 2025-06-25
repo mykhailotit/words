@@ -1,0 +1,23 @@
+[
+  {
+    "word": "rare",
+    "sentence_start": "Mark has a collection of",
+    "sentence_end": "coins.",
+    "translation": "рідкісний, рідкісний",
+    "synonyms": ["unique", "unusual", "precious"]
+  },
+  {
+    "word": "fast",
+    "sentence_start": "The rabbit is very",
+    "sentence_end": "when it runs.",
+    "translation": "швидкий, прудкий",
+    "synonyms": ["quick", "speedy", "rapid"]
+  },
+  {
+    "word": "kind",
+    "sentence_start": "She is always very",
+    "sentence_end": "to everyone.",
+    "translation": "добрa, мила",
+    "synonyms": ["nice", "friendly", "helpful"]
+  }
+]
