@@ -5,7 +5,7 @@
     "sentence_start": "What are you thinking",
     "sentence_end": "?",
     "translation": "про, щодо",
-    "synonyms": ["concerning, regarding"],
+    "synonyms": "concerning, regarding",
     "sentence_translation_start": "",
     "sentence_translation_mid": "Про",
     "sentence_translation_end": "що ти думаєш?"
@@ -15,7 +15,7 @@
     "sentence_start": "The painting hangs",
     "sentence_end": "the fireplace.",
     "translation": "над",
-    "synonyms": ["over, beyond"],
+    "synonyms": "over, beyond",
     "sentence_translation_start": "Картина висить",
     "sentence_translation_mid": "над",
     "sentence_translation_end": "каміном."
@@ -25,7 +25,7 @@
     "sentence_start": "The bridge stretches",
     "sentence_end": "the river.",
     "translation": "через, по той бік",
-    "synonyms": ["over, beyond"],
+    "synonyms": "over, beyond",
     "sentence_translation_start": "Міст простягається",
     "sentence_translation_mid": "через",
     "sentence_translation_end": "річку."
@@ -35,7 +35,7 @@
     "sentence_start": "His words led to immediate",
     "sentence_end": ".",
     "translation": "дія, вчинок",
-    "synonyms": ["deed, act"],
+    "synonyms": "deed, act",
     "sentence_translation_start": "Його слова призвели до негайної",
     "sentence_translation_mid": "дії",
     "sentence_translation_end": "."
@@ -45,7 +45,7 @@
     "sentence_start": "Reading is a relaxing",
     "sentence_end": ".",
     "translation": "діяльність, заняття",
-    "synonyms": ["pursuit, occupation"],
+    "synonyms": "pursuit, occupation",
     "sentence_translation_start": "Читання - це розслаблююча",
     "sentence_translation_mid": "діяльність",
     "sentence_translation_end": "."
@@ -55,7 +55,7 @@
     "sentence_start": "My favorite",
     "sentence_end": "is Tom Hanks.",
     "translation": "актор",
-    "synonyms": ["performer, player"],
+    "synonyms": "performer, player",
     "sentence_translation_start": "Мій улюблений",
     "sentence_translation_mid": "актор",
     "sentence_translation_end": "- Том Хенкс."
@@ -65,7 +65,7 @@
     "sentence_start": "Maria dreams of becoming a famous",
     "sentence_end": ".",
     "translation": "актриса",
-    "synonyms": ["performer, star"],
+    "synonyms": "performer, star",
     "sentence_translation_start": "Вона мріє стати відомою",
     "sentence_translation_mid": "актрисою",
     "sentence_translation_end": "."
@@ -75,7 +75,7 @@
     "sentence_start": "Please",
     "sentence_end": "some sugar to my tea.",
     "translation": "додати",
-    "synonyms": ["include, append"],
+    "synonyms": "include, append",
     "sentence_translation_start": "Будь ласка,",
     "sentence_translation_mid": "додай",
     "sentence_translation_end": "цукор у мій чай."
@@ -85,7 +85,7 @@
     "sentence_start": "What's your home",
     "sentence_end": "?",
     "translation": "адреса",
-    "synonyms": ["location, residence"],
+    "synonyms": "location, residence",
     "sentence_translation_start": "Яка твоя домашня",
     "sentence_translation_mid": "адреса",
     "sentence_translation_end": "?"
@@ -95,7 +95,7 @@
     "sentence_start": "You must be an",
     "sentence_end": "to buy alcohol.",
     "translation": "дорослий",
-    "synonyms": ["grown-up, mature person"],
+    "synonyms": "grown-up, mature person",
     "sentence_translation_start": "Щоб купити алкоголь, ви повинні бути",
     "sentence_translation_mid": "дорослим",
     "sentence_translation_end": "."
@@ -105,7 +105,7 @@
     "sentence_start": "Can you give me some good",
     "sentence_end": "?",
     "translation": "порада",
-    "synonyms": ["guidance, counsel"],
+    "synonyms": "guidance, counsel",
     "sentence_translation_start": "Можеш дати мені хорошу",
     "sentence_translation_mid": "пораду",
     "sentence_translation_end": "?"
@@ -115,7 +115,7 @@
     "sentence_start": "I'm",
     "sentence_end": "of spiders.",
     "translation": "наляканий, боїться",
-    "synonyms": ["scared, frightened"],
+    "synonyms": "scared, frightened",
     "sentence_translation_start": "Я",
     "sentence_translation_mid": "боюся",
     "sentence_translation_end": "павуків."
@@ -125,7 +125,7 @@
     "sentence_start": "We'll meet",
     "sentence_end": "work.",
     "translation": "після",
-    "synonyms": ["following, subsequent to"],
+    "synonyms": "following, subsequent to",
     "sentence_translation_start": "Ми зустрінемося",
     "sentence_translation_mid": "після",
     "sentence_translation_end": "роботи."
@@ -135,7 +135,7 @@
     "sentence_start": "Let's have coffee this",
     "sentence_end": ".",
     "translation": "день, післяобідній час",
-    "synonyms": ["-"],
+    "synonyms": "-",
     "sentence_translation_start": "Давайте вип'ємо кави сьогодні",
     "sentence_translation_mid": "вдень",
     "sentence_translation_end": "."
@@ -145,7 +145,7 @@
     "sentence_start": "Please say that",
     "sentence_end": ".",
     "translation": "знову, ще раз",
-    "synonyms": ["anew, once more"],
+    "synonyms": "anew, once more",
     "sentence_translation_start": "Будь ласка, скажи це",
     "sentence_translation_mid": "ще раз",
     "sentence_translation_end": "."
@@ -155,7 +155,7 @@
     "sentence_start": "Your",
     "sentence_end": "is not in your passport, but in your soul.",
     "translation": "вік",
-    "synonyms": ["years, seniority"],
+    "synonyms": "years, seniority",
     "sentence_translation_start": "Ваш",
     "sentence_translation_mid": "вік",
     "sentence_translation_end": "не у паспорті, а у душі."
@@ -165,7 +165,7 @@
     "sentence_start": "I saw him a week",
     "sentence_end": ".",
     "translation": "тому, назад",
-    "synonyms": ["previously, back"],
+    "synonyms": "previously, back",
     "sentence_translation_start": "Я бачив його тиждень",
     "sentence_translation_mid": "тому",
     "sentence_translation_end": "."
@@ -175,7 +175,7 @@
     "sentence_start": "I",
     "sentence_end": "with you completely.",
     "translation": "погоджуватися",
-    "synonyms": ["concur, assent"],
+    "synonyms": "concur, assent",
     "sentence_translation_start": "Я повністю з тобою",
     "sentence_translation_mid": "згоден",
     "sentence_translation_end": "."
@@ -185,7 +185,7 @@
     "sentence_start": "We need some fresh",
     "sentence_end": "in here.",
     "translation": "повітря",
-    "synonyms": ["atmosphere, breeze"],
+    "synonyms": "atmosphere, breeze",
     "sentence_translation_start": "Нам потрібне свіже",
     "sentence_translation_mid": "повітря",
     "sentence_translation_end": "тут."
@@ -195,7 +195,7 @@
     "sentence_start": "The plane is landing at the",
     "sentence_end": ".",
     "translation": "аеропорт",
-    "synonyms": ["airfield, aerodrome"],
+    "synonyms": "airfield, aerodrome",
     "sentence_translation_start": "Літак приземляється в",
     "sentence_translation_mid": "аеропорту",
     "sentence_translation_end": "."
@@ -205,7 +205,7 @@
     "sentence_start": "",
     "sentence_end": "of them came to the party.",
     "translation": "всі, все",
-    "synonyms": ["everyone, everything"],
+    "synonyms": "everyone, everything",
     "sentence_translation_start": "",
     "sentence_translation_mid": "Усі",
     "sentence_translation_end": "вони прийшли на вечірку."
@@ -215,7 +215,7 @@
     "sentence_start": "She speaks French, and",
     "sentence_end": "German.",
     "translation": "також",
-    "synonyms": ["too, in addition"],
+    "synonyms": "too, in addition",
     "sentence_translation_start": "Вона розмовляє французькою, а",
     "sentence_translation_mid": "також",
     "sentence_translation_end": "німецькою."
@@ -225,7 +225,7 @@
     "sentence_start": "He",
     "sentence_end": "helps his friends.",
     "translation": "завжди",
-    "synonyms": ["forever, constantly"],
+    "synonyms": "forever, constantly",
     "sentence_translation_start": "Він",
     "sentence_translation_mid": "завжди",
     "sentence_translation_end": "допомагає своїм друзям."
@@ -235,7 +235,7 @@
     "sentence_start": "That's an",
     "sentence_end": "story!",
     "translation": "дивовижний, вражаючий",
-    "synonyms": ["incredible, fantastic"],
+    "synonyms": "incredible, fantastic",
     "sentence_translation_start": "Це",
     "sentence_translation_mid": "дивовижна",
     "sentence_translation_end": "історія!"
@@ -245,7 +245,7 @@
     "sentence_start": "We need bread",
     "sentence_end": "milk.",
     "translation": "і, та, й, а",
-    "synonyms": ["plus, additionally"],
+    "synonyms": "plus, additionally",
     "sentence_translation_start": "Нам потрібен хліб",
     "sentence_translation_mid": "і",
     "sentence_translation_end": "молоко."
@@ -255,7 +255,7 @@
     "sentence_start": "He was very",
     "sentence_end": "about the delay.",
     "translation": "злий, сердитий",
-    "synonyms": ["mad, furious"],
+    "synonyms": "mad, furious",
     "sentence_translation_start": "Він дуже",
     "sentence_translation_mid": "злився",
     "sentence_translation_end": "через затримку."
@@ -265,7 +265,7 @@
     "sentence_start": "A cat is a domestic",
     "sentence_end": ".",
     "translation": "тварина",
-    "synonyms": ["creature, beast"],
+    "synonyms": "creature, beast",
     "sentence_translation_start": "Кішка - це домашня",
     "sentence_translation_mid": "тварина",
     "sentence_translation_end": "."
@@ -275,7 +275,7 @@
     "sentence_start": "Can I have",
     "sentence_end": "piece of cake?",
     "translation": "інший, ще один",
-    "synonyms": ["additional, further"],
+    "synonyms": "additional, further",
     "sentence_translation_start": "Можна мені",
     "sentence_translation_mid": "ще один",
     "sentence_translation_end": "шматок торта?"
@@ -285,7 +285,7 @@
     "sentence_start": "Please",
     "sentence_end": "the question.",
     "translation": "відповідати",
-    "synonyms": ["respond, reply"],
+    "synonyms": "respond, reply",
     "sentence_translation_start": "Будь ласка, дайте",
     "sentence_translation_mid": "відповідь",
     "sentence_translation_end": "на запитання."
@@ -295,7 +295,7 @@
     "sentence_start": "I don't have",
     "sentence_end": "left.",
     "translation": "будь-який, жодного, нічого",
-    "synonyms": ["none, some"],
+    "synonyms": "none, some",
     "sentence_translation_start": "У мене",
     "sentence_translation_mid": "нічого",
     "sentence_translation_end": "не залишилося."
@@ -305,7 +305,7 @@
     "sentence_start": "Did",
     "sentence_end": "see what happened?",
     "translation": "хтось, будь-хто",
-    "synonyms": ["anybody, whoever"],
+    "synonyms": "anybody, whoever",
     "sentence_translation_start": "",
     "sentence_translation_mid": "Хтось",
     "sentence_translation_end": "бачив, що сталося?"
@@ -315,7 +315,7 @@
     "sentence_start": "Is there",
     "sentence_end": "I can do?",
     "translation": "щось, будь-що",
-    "synonyms": ["something, everything"],
+    "synonyms": "something, everything",
     "sentence_translation_start": "Чи є",
     "sentence_translation_mid": "щось",
     "sentence_translation_end": ", що я можу зробити?"
@@ -325,7 +325,7 @@
     "sentence_start": "They live in a small",
     "sentence_end": ".",
     "translation": "квартира",
-    "synonyms": ["flat, dwelling"],
+    "synonyms": "flat, dwelling",
     "sentence_translation_start": "Вони живуть у невеликій",
     "sentence_translation_mid": "квартирі",
     "sentence_translation_end": "."
@@ -335,7 +335,7 @@
     "sentence_start": "She ate a red",
     "sentence_end": ".",
     "translation": "яблуко",
-    "synonyms": ["fruit"],
+    "synonyms": "fruit",
     "sentence_translation_start": "Вона з'їла червоне",
     "sentence_translation_mid": "яблуко",
     "sentence_translation_end": "."
@@ -345,7 +345,7 @@
     "sentence_start": "My birthday is in",
     "sentence_end": ".",
     "translation": "квітень",
-    "synonyms": ["-"],
+    "synonyms": "-",
     "sentence_translation_start": "Мій день народження у",
     "sentence_translation_mid": "квітні",
     "sentence_translation_end": "."
@@ -355,7 +355,7 @@
     "sentence_start": "This is a very quiet",
     "sentence_end": ".",
     "translation": "район, область",
-    "synonyms": ["zone, region"],
+    "synonyms": "zone, region",
     "sentence_translation_start": "Це дуже тихий",
     "sentence_translation_mid": "район",
     "sentence_translation_end": "."
@@ -365,7 +365,7 @@
     "sentence_start": "He broke his",
     "sentence_end": "playing sports.",
     "translation": "рука (від плеча до кисті)",
-    "synonyms": ["limb, appendage"],
+    "synonyms": "limb, appendage",
     "sentence_translation_start": "Він зламав",
     "sentence_translation_mid": "руку",
     "sentence_translation_end": ", займаючись спортом."
@@ -375,7 +375,7 @@
     "sentence_start": "They walked",
     "sentence_end": "the park.",
     "translation": "навколо",
-    "synonyms": ["circling, encircling"],
+    "synonyms": "circling, encircling",
     "sentence_translation_start": "Вони гуляли",
     "sentence_translation_mid": "навколо",
     "sentence_translation_end": "парку."
@@ -385,7 +385,7 @@
     "sentence_start": "What time do you expect to",
     "sentence_end": "?",
     "translation": "прибувати",
-    "synonyms": ["reach, get there"],
+    "synonyms": "reach, get there",
     "sentence_translation_start": "О котрій годині ви очікуєте",
     "sentence_translation_mid": "прибути",
     "sentence_translation_end": "?"
@@ -395,7 +395,7 @@
     "sentence_start": "I love modern",
     "sentence_end": ".",
     "translation": "мистецтво",
-    "synonyms": ["creativity, expression"],
+    "synonyms": "creativity, expression",
     "sentence_translation_start": "Я люблю сучасне",
     "sentence_translation_mid": "мистецтво",
     "sentence_translation_end": "."
