@@ -1,23 +1,123 @@
 [
   {
-    "word": "rare",
-    "sentence_start": "Mark has a collection of",
-    "sentence_end": "coins.",
-    "translation": "рідкісний, рідкісний",
-    "synonyms": ["unique", "unusual", "precious"]
+  "word": "ability",
+    "parts_of_speech": "noun",
+    "sentence_start": "Despite the challenges, her",
+    "sentence_end": "to quickly learn new languages impressed everyone during the international conference.",
+    "translation": "здатність, вміння",
+    "synonyms": "skill, capacity",
+    "sentence_translation_start": "Незважаючи на виклики, її",
+    "sentence_translation_mid": "здатність",
+    "sentence_translation_end": "швидко вивчати нові мови вразила всіх під час міжнародної конференції."
   },
   {
-    "word": "fast",
-    "sentence_start": "The rabbit is very",
-    "sentence_end": "when it runs.",
-    "translation": "швидкий, прудкий",
-    "synonyms": ["quick", "speedy", "rapid"]
+  "word": "able",
+    "parts_of_speech": "adjective",
+    "sentence_start": "After weeks of intense training, he was finally",
+    "sentence_end": "to run a marathon without stopping, achieving his long-held dream.",
+    "translation": "здатний",
+    "synonyms": "capable, competent",
+    "sentence_translation_start": "Після тижнів інтенсивних тренувань він нарешті був",
+    "sentence_translation_mid": "здатний",
+    "sentence_translation_end": "пробігти марафон без зупинки, здійснивши свою давню мрію."
   },
   {
-    "word": "kind",
-    "sentence_start": "She is always very",
-    "sentence_end": "to everyone.",
-    "translation": "добрa, мила",
-    "synonyms": ["nice", "friendly", "helpful"]
+  "word": "abroad",
+    "parts_of_speech": "adverb",
+    "sentence_start": "Many young graduates dream of working",
+    "sentence_end": "for a few years to gain international experience and immerse themselves in different cultures.",
+    "translation": "за кордоном",
+    "synonyms": "overseas, internationally",
+    "sentence_translation_start": "Багато молодих випускників мріють попрацювати",
+    "sentence_translation_mid": "за кордоном",
+    "sentence_translation_end": "кілька років, щоб отримати міжнародний досвід і зануритися в різні культури."
+  },
+  {
+  "word": "accept",
+    "parts_of_speech": "verb",
+    "sentence_start": "It's important to",
+    "sentence_end": "both the victories and the defeats in life, learning from every experience to grow stronger.",
+    "translation": "приймати",
+    "synonyms": "agree to, embrace",
+    "sentence_translation_start": "Важливо",
+    "sentence_translation_mid": "приймати",
+    "sentence_translation_end": "як перемоги, так і поразки в житті, навчаючись на кожному досвіді, щоб стати сильнішими."
+  },
+  {
+  "word": "accident",
+    "parts_of_speech": "noun",
+    "sentence_start": "The small",
+    "sentence_end": "on the icy road caused a significant traffic jam, delaying hundreds of commuters for hours.",
+    "translation": "аварія, нещасний випадок",
+    "synonyms": "collision, mishap",
+    "sentence_translation_start": "Невелика",
+    "sentence_translation_mid": "аварія",
+    "sentence_translation_end": "на слизькій дорозі спричинила значний затор, затримавши сотні пасажирів на години."
+  },
+  {
+  "word": "according to",
+    "parts_of_speech": "preposition",
+    "sentence_start": "",
+    "sentence_end": "the latest weather forecast, a heavy snowstorm is expected overnight, so we should prepare accordingly.",
+    "translation": "згідно з",
+    "synonyms": "as per, in accordance with",
+    "sentence_translation_start": "",
+    "sentence_translation_mid": "Згідно з",
+    "sentence_translation_end": "останнім прогнозом погоди, вночі очікується сильна снігова буря, тому нам слід відповідно підготуватися."
+  },
+  {
+  "word": "achieve",
+    "parts_of_speech": "verb",
+    "sentence_start": "She worked tirelessly for years to",
+    "sentence_end": "her goal of becoming a renowned classical musician, dedicating countless hours to practice.",
+    "translation": "досягати",
+    "synonyms": "accomplish, attain",
+    "sentence_translation_start": "Вона невтомно працювала роками, щоб",
+    "sentence_translation_mid": "досягти",
+    "sentence_translation_end": "своєї мети - стати відомим класичним музикантом, присвячуючи незліченні години практиці."
+  },
+  {
+  "word": "act",
+    "parts_of_speech": "verb",
+    "sentence_start": "Despite his fear, he knew he had to",
+    "sentence_end": "quickly to save the child from the burning building, showing immense bravery.",
+    "translation": "діяти",
+    "synonyms": "perform, behave",
+    "sentence_translation_start": "Незважаючи на свій страх, він знав, що повинен",
+    "sentence_translation_mid": "діяти",
+    "sentence_translation_end": "швидко, щоб врятувати дитину з палаючого будинку, виявивши надзвичайну мужність."
+  },
+  {
+  "word": "active",
+    "parts_of_speech": "adjective",
+    "sentence_start": "Even in her eighties, my grandmother remains incredibly",
+    "sentence_end": ", participating in daily yoga classes and hiking every weekend.",
+    "translation": "активний",
+    "synonyms": "energetic, busy",
+    "sentence_translation_start": "Навіть у свої вісімдесят бабуся залишається неймовірно",
+    "sentence_translation_mid": "активною",
+    "sentence_translation_end": ", відвідуючи щоденні заняття йогою та вирушаючи в походи щовихідних."
+  },
+  {
+  "word": "actually",
+    "parts_of_speech": "adverb",
+    "sentence_start": "I thought the movie would be boring, but it was",
+    "sentence_end": "quite thrilling and kept me on the edge of my seat the whole time.",
+    "translation": "насправді",
+    "synonyms": "in fact, really",
+    "sentence_translation_start": "Я думав, що фільм буде нудним, але він",
+    "sentence_translation_mid": "насправді",
+    "sentence_translation_end": "був досить захоплюючим і тримав мене в напрузі весь час."
+  },
+  {
+  "word": "adult",
+    "parts_of_speech": "adjective",
+    "sentence_start": "The film is rated 'R' and is only suitable for",
+    "sentence_end": "audiences due to its mature themes and strong language.",
+    "translation": "дорослий",
+    "synonyms": "grown-up, mature",
+    "sentence_translation_start": "Фільм має рейтинг «R» і підходить лише для",
+    "sentence_translation_mid": "дорослої",
+    "sentence_translation_end": "аудиторії через його дорослі теми та ненормативну лексику."
   }
 ]
